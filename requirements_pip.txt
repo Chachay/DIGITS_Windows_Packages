@@ -1,0 +1,5 @@
+protobuf==3.1.0
+Flask-SocketIO==2.6
+lmdb==0.87
+pydotplus==2.0.2
+scikit-fmm>=0.0.9
